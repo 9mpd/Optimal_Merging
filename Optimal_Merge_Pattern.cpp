@@ -1,3 +1,9 @@
+Copyright (c) 2021, 9mpd
+All rights reserved.
+
+This source code is licensed under the BSD-style license found in the
+LICENSE file in the root directory of this source tree. 
+	
 // IMPLEMENTATION OF OPTIMAL MERGE PATTERN 
 #include <iostream>
 #include <vector>
